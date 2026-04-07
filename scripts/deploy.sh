@@ -25,3 +25,5 @@ sudo /usr/bin/systemctl restart tomcat
 
 echo "Checking Tomcat status..."
 sudo /usr/bin/systemctl status tomcat
+
+
